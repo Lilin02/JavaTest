@@ -1,4 +1,4 @@
-package li.lin.proxy;
+package li.lin.jdkproxy;
 
 import java.lang.reflect.Proxy;
 

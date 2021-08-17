@@ -1,4 +1,4 @@
-package li.lin.proxy;
+package li.lin.jdkproxy;
 
 public interface Animal {
     void say(String name);
