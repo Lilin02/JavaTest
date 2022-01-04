@@ -266,7 +266,7 @@ public class TestJdk8 {
 	}
 
 	public void ListTest18(){
-		System.out.println("dev-1提交");
+		System.out.println("dev-1第一次提交");
 	}
 }
 
