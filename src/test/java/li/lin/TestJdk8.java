@@ -264,6 +264,11 @@ public class TestJdk8 {
 	public static boolean isEmpty(String str) {
 		return str == null || str.length() == 0;
 	}
+
+	public void ListTest17(){
+		System.out.println("dev-2提交");
+	}
+
 }
 
 
