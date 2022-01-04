@@ -268,6 +268,10 @@ public class TestJdk8 {
 	public void ListTest18(){
 		System.out.println("dev-1第一次提交");
 	}
+
+	public void ListTest19(){
+		System.out.println("dev-1第二次提交");
+	}
 }
 
 
